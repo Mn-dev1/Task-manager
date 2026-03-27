@@ -1,0 +1,1 @@
+export const db = 'mongodb+srv://admin:admin@cluster0.1w6gyby.mongodb.net/tasks?appName=Cluster0'
